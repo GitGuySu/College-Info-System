@@ -1,1 +1,1 @@
-# College-Info-System
+This project uses C
