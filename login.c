@@ -139,7 +139,7 @@ void login()
     printf(" Enter Password: ");
     scanf("%s",pss);
     ///Reading from file
-    fp=fopen("F:\\CHATBOT\\username.txt","rb+");
+    fp=fopen("D:\\C Programs\\Programs\\C-Project\\record.txt","rb+");
     if(fp==NULL)
     {
         printf("\"File not found\"");
